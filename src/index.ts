@@ -1,9 +1,11 @@
 import express from "express"
 
-const app = express() // Crea la aplicación
+// Crea la aplicación
+const app = express()
 
 app.get("/", (req, res) => {
-  res.json({ mensaje: "Hola mundo!" })
+  res.json({ message: "Hola YouTube!" })
 })
 
-app.listen(3000, () => console.log("Servidor corriendo en http://localhost:3000")) // Inicia el servidor
+// Inicia el servidor
+app.listen(3000, () => console.log("Servidor corriendo en http://localhost:3000"))
