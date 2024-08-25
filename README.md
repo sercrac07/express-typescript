@@ -15,3 +15,6 @@ El curso está diseñado para desarrolladores que ya tienen un conocimiento bás
 <a href='https://youtu.be/6JINeOCdUSA' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/6JINeOCdUSA/mqdefault.jpg' alt='Implementando TYPESCRIPT a EXPRESS - Express.js y TypeScript - 01' />
 </a>
+<a href='https://youtu.be/OaQ_BiwsRbg' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/OaQ_BiwsRbg/mqdefault.jpg' alt='Enrutamiento ESTÁTICO y DINÁMICO - Express.js y TypeScript - 02' />
+</a>
